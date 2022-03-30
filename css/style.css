@@ -59,6 +59,9 @@ h3{
     font-family: 'NanumSquareRound';
     font-weight: 700;
 }
+.ph3{
+    padding-top: 45px;
+}
 h4 {
     font-family: 'Lato', sans-serif;
     text-transform: capitalize;
@@ -84,6 +87,8 @@ h4:before {
 }
 .mp1{
     font-family: 'NanumSquareRound';
+    font-size: 16px;
+    padding-top: 10px;
 }
 .ms1{
     font-weight: 500;
@@ -95,7 +100,7 @@ h4:before {
 ==================================================*/
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 14px;
     line-height: 24px;
 }
@@ -103,6 +108,7 @@ body {
 .size-50 {
     font-size: 50px;
     line-height: 50px
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .h-50 {
@@ -1034,7 +1040,7 @@ fieldset {
 
 @media (max-width: 500px) {
     h1 {
-        font-family: 'Playfair Display', serif;
+        font-family: 'Ubuntu', sans-serif;
         font-size: 50px;
         line-height: 50px;
     }
@@ -1120,7 +1126,7 @@ fieldset {
 }
 .project_btn_box{
     text-align:left;
-padding-top:10px;
+padding-top:5px;
 }
 .clear{clear:both;}
 .portfolio_item{height:230px;}
