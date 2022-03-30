@@ -460,12 +460,15 @@ a.active {
 
 .about-border {
     position: absolute;
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 420px;
     top: 40px;
     left: 50px;
     z-index: 1;
     background-color: white;
+    background-image: url(../img/p.jpg);
+    background-repeat: no-repeat;
+    border-radius: 30px;
 }
 .h{
 	font-size:16px;
