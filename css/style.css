@@ -461,9 +461,9 @@ a.active {
 .about-border {
     position: absolute;
     width: 350px;
-    height: 420px;
-    top: 40px;
-    left: 50px;
+    height: 410px;
+    top: 20px;
+    left: 37px;
     z-index: 1;
     background-color: white;
     background-image: url(../img/p.jpg);
@@ -1052,7 +1052,7 @@ fieldset {
         height: 100vh;
     }
     .about-border {
-        width: 265px;
+        width: 78%;
     }
     .portfolio .categories-grid .categories ul li {
         list-style: none;
